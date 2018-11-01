@@ -1,0 +1,4 @@
+1) Make A GUI
+2) Automate key recognition (No user entry)
+3) Fragment the text file into separate files
+4) Offer support for other file types other than text files
